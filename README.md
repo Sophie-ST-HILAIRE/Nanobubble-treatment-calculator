@@ -39,5 +39,4 @@ The app is available at https://nanobubbles.shinyapps.io/nanobubble_flow/.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-<img width="40" src="https://img.icons8.com/?size=512&id=71474&format=png".
-     href="mailto:anaritamarques82@gmail.com" Shinny app developed by Ana Marques, 2023.
+<a "Shinny app developed by Ana Marques, 2023." href="mailto:anaritamarques82@gmail.com"/>
