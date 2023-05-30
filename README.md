@@ -34,4 +34,7 @@ The app is available at https://nanobubbles.shinyapps.io/nanobubble_flow/.
    <br>
 </p>
 
-
+<p align="center">
+<img width="400" src=https://www.cityu.edu.hk>
+   <br>
+</p>
