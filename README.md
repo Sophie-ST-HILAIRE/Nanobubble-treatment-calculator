@@ -2,8 +2,9 @@
 
 This is the repository to the Nanobubble treatment calculator, an app to determine the time nanobubble treatments should be applied to achieve a user specified increase in aquaculture pond water dissolved oxygen levels and/or pond water disinfection through the application of ozone nanobubbles. The cost of the treatment is also provided for the user defined input. 
 
-
-!["I can caption anything!" Picture1 1](https://github.com/Sophie-ST-HILAIRE/Nanobubble-treatment-calculator/assets/134591091/c6b652de-16ad-4eab-84d1-a73de403e28e)
+<p align="center">
+![Picture1 1](https://github.com/Sophie-ST-HILAIRE/Nanobubble-treatment-calculator/assets/134591091/c6b652de-16ad-4eab-84d1-a73de403e28e) 
+</p>
 
 
 ## Input panel
