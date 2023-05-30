@@ -4,7 +4,7 @@ This is the repository to the Nanobubble treatment calculator, an app to determi
 <p align="center">
 <img width="400" src=https://github.com/Sophie-ST-HILAIRE/Nanobubble-treatment-calculator/assets/134591091/c6b652de-16ad-4eab-84d1-a73de403e28e/>
    <br>
-    <em>Figure 1 training process of NN.</em>
+    <em> Nanobulle treatment app input panel and outputs.</em>
 </p>
 
 ## Input panel
