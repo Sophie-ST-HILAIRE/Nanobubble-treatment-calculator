@@ -13,13 +13,13 @@ After selecting the purpose of the nanobubble treatment, the user is asked to sp
 
 Nanobubblers are often coupled to ozone or oxygen generator. Three options are provided to select nanobubblers associated to ozone or oxygen generators in the input parameter "Select the equipment used". These three options automatically provide the calculator with the water and electricity consumption parameters for each of the three setups. Furthermore, the user can select a fourth option in the list of equipment to customize the specifications of the nanobubbler, with or without the addition of a gas generator, in the "Customization" section. Here, the energy consumption per hour for the nanobubbler or nanobubbler and generator setup, can be specified, along with the oxygen output and equipment water flow. The number of nanobubblers, or nanobubble and generator setups, can be specified in an additional input " How many machines will you use to treat one pond?". 
 
-The user needs to specify the pond volume in cubic meters, where one cubic meter is the equivalent to 1000 L. The app does not consider the organic matter content of the pond water, which could limit the efficiency of the pond water treatments.
+The user needs to specify the pond volume in cubic meters, where one cubic meter is the equivalent to 1000 L. The app provides estimates of treatment times and should be used to guide the nanobubbler users, who should expect variations due to organic matter content and also water temperature, nanobubble distribution efficiency in the pond, variations in sunlight and algae, among other parameters influencing treatment results. 
 
 ## Output panel
 
 The results specifying the treatment cost and the total time to treat a pond are presented in the app output panel in two dialog boxes. The treatment times were rounded to the nearest half an hour. 
 
-When treatments are applied to increase oxygen, a plot of pond water dissolved oxygen levels for every half hour of treatment is provided to guide the user in understanding how oxygen concentration levels vary in time. In the event of ozone nanobubble treatments applied for water disinfection, the percentage of pond water treated is shown per hour of treatment. The app provides estimates of treatment times and should be used to guide the nanobubbler users, who should expect variations due to organic matter content and also water temperature, nanobubble distribution efficiency in the pond, variations in sunlight and algae, among other parameters influencing treatment results. 
+When treatments are applied to increase oxygen, a plot of pond water dissolved oxygen levels for every half hour of treatment is provided to guide the user in understanding how oxygen concentration levels vary in time. In the event of ozone nanobubble treatments applied for water disinfection, the percentage of pond water treated is shown per hour of treatment. 
 
 
 The app is available at https://nanobubbles.shinyapps.io/nanobubble_flow/.
