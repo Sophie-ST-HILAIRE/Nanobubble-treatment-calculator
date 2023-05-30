@@ -23,10 +23,6 @@ When treatments are applied to increase oxygen, a plot of pond water dissolved o
 
 The app is available at https://nanobubbles.shinyapps.io/nanobubble_flow/.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-
-
 
 <p align="center">
    <img width="400" src=https://www.idrc.ca/sites/default/files/images/idrc-logo-full-name-wordmark.png>
@@ -37,3 +33,10 @@ The app is available at https://nanobubbles.shinyapps.io/nanobubble_flow/.
    <img width="400" src=https://template.cityu.edu.hk/template/logo/ph/ph_logo_eng_cmyk.svg>
    <br>
 </p>
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
+
