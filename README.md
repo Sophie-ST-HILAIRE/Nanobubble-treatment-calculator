@@ -20,4 +20,7 @@ The results specifying the treatment cost and the total time to treat a pond are
 
 When treatments are applied to increase  oxygen, a plot of pond water dissolved oxygen levels for every half hour of treatment is provied to guide the user in indurstanding how oxygen concentration levels vary in time. In the event of ozone nanobubble treatments applied for water disinfection, the percentage of pond water treated is shown per  hour of treatment.
 
+
+The app is available at https://nanobubbles.shinyapps.io/nanobubble_flow/.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
