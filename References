@@ -1,6 +1,31 @@
 # References
 
+Alboukadel Kassambara (2020). ggpubr: 'ggplot2' Based Publication Ready Plots. R package
+version 0.4.0. https://CRAN.R-project.org/package=ggpubr
+
+Chris Mason-Thom (2019). shinyhelper: Easily Add Markdown Help Files to 'shiny' App Elements.
+R package version 0.3.2. https://CRAN.R-project.org/package=shinyhelper
+
+Claus O. Wilke (2020). cowplot: Streamlined Plot Theme and Plot Annotations for 'ggplot2'. R
+package version 1.1.1. https://CRAN.R-project.org/package=cowplot
+
+Dean Attali and Tristan Edwards (2021). shinyalert: Easily Create Pretty Popup Messages
+(Modals) in 'Shiny'. R package version 3.0.0. https://CRAN.R-project.org/package=shinyalert
+
+Dean Attali (2021). shinyjs: Easily Improve the User Experience of Your Shiny Apps in
+Seconds. R package version 2.1.0. https://CRAN.R-project.org/package=shinyjs
+
+Hadley Wickham (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York.
+
+Hadley Wickham (2011). The Split-Apply-Combine Strategy for Data Analysis. Journal of
+Statistical Software, 40(1), 1-29. URL http://www.jstatsoft.org/v40/i01/
+  
+Hadley Wickham, Romain François, Lionel Henry and Kirill Müller (2021). dplyr: A Grammar of
+Data Manipulation. R package version 1.0.7. https://CRAN.R-project.org/package=dplyr
+
+Victor Perrier, Fanny Meyer and David Granjon (2023). shinyWidgets: Custom Inputs Widgets for
+Shiny. R package version 0.7.6. https://CRAN.R-project.org/package=shinyWidgets
+ 
 R Core Team (2021). R: A language and environment for statistical
 computing. R Foundation for Statistical Computing, Vienna, Austria.
 URL https://www.R-project.org/.
-
