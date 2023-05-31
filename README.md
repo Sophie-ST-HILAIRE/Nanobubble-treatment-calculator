@@ -3,6 +3,7 @@
 Welcome to the [Nanobubble Treatment Calculator](https://nanobubbles.shinyapps.io/nanobubble_flow/), an app to determine nanobubble treatments time and costs. Select from the available options: 
 1. to increase pond water oxygen levels, by applying oxygen nanobubble treatments, or 
 2. to reduce algae and bacteria through the application of ozone nanobubbles. 
+
 The cost of the treatment is also provided. User specified input is entered in the input panel, where default values are initially provided, while treatment cost and treatment time outputs are provided in the app output section.
 <p align="center">
 <img width="400" src=https://github.com/Sophie-ST-HILAIRE/Nanobubble-treatment-calculator/assets/134591091/c6b652de-16ad-4eab-84d1-a73de403e28e/>
