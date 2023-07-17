@@ -1,8 +1,8 @@
 # Nanobubble treatment calculator
 
 Welcome to the [Nanobubble Treatment Calculator](https://nanobubbles.shinyapps.io/nanobubble_flow/), an app to determine nanobubble treatments time and costs. Select from the available options: 
-1. to increase pond water oxygen levels, by applying oxygen nanobubble treatments, or 
-2. to reduce algae and bacteria through the application of ozone nanobubbles. 
+1. To increase pond water oxygen levels, by applying oxygen nanobubble treatments, or 
+2. To reduce algae and bacteria through the application of ozone nanobubbles. 
 
 The cost of the treatment is also provided. User specified input is entered in the input panel, where default values are initially provided, while treatment cost and treatment time outputs are provided in the app output section.
 <p align="center">
@@ -15,7 +15,7 @@ The cost of the treatment is also provided. User specified input is entered in t
 
 After selecting the purpose of the nanobubble treatment, the user is asked to specify if the energy to power the nanobubbler is supplied via the electric grid or using a rented diesel powered generator. In the event of the electricity supplied from the grid, the price of electricity per kwh can be customized in the "Customization" section of the user input panel. If the option "Generator (diesel)" is selected, the user can specify if they are renting the generator and the rental cost per hour; diesel generator efficiency (%), the cost of fuel per liter, and the fuel energy content can be customized in the "Customization" section of the user input panel.
 
-Nanobubblers are often coupled to ozone or oxygen generator. Three options are provided to select nanobubblers associated to ozone or oxygen generators in the input parameter "Select the equipment used". These three options automatically provide the calculator with the water and electricity consumption parameters for each of the three setups. Furthermore, the user can select a fourth option in the list of equipment to customize the specifications of the nanobubbler, with or without the addition of a gas generator, in the "Customization" section. Here, the energy consumption per hour for the nanobubbler or nanobubbler and generator setup, can be specified, along with the oxygen output and equipment water flow. The number of nanobubblers, or nanobubble and generator setups, can be specified in an additional input " How many machines will you use to treat one pond?". The user should also specify the pond volume in cubic meters, where one cubic meter is the equivalent to 1000 L.
+Nanobubblers are often coupled to ozone or oxygen generator. Three options are provided to select nanobubblers associated to ozone or oxygen generators in the input parameter "Select the equipment used". These three options automatically provide the calculator with the water and electricity consumption parameters for each of the three setups. Furthermore, the user can select a fourth option in the list of equipment to customize the specifications of the nanobubbler, with or without the addition of a gas generator, in the "Customization" section. Here, the energy consumption per hour for the nanobubbler or nanobubbler and generator setup, can be specified, along with the oxygen output and equipment water flow. The number of nanobubblers, or nanobubble and generator setups, can be specified in an additional input "How many machines will you use to treat one pond?". The user should also specify the pond volume in cubic meters, where one cubic meter is the equivalent to 1000 L.
 
 ## Output panel
 
