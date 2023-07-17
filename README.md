@@ -6,7 +6,7 @@ Welcome to the [Nanobubble Treatment Calculator](https://nanobubbles.shinyapps.i
 
 The cost of the treatment is also provided. User specified input is entered in the input panel, where default values are initially provided, while treatment cost and treatment time outputs are provided in the app output section.
 <p align="center">
-<img width="400" src=https://github.com/Sophie-ST-HILAIRE/Nanobubble-treatment-calculator/assets/134591091/c6b652de-16ad-4eab-84d1-a73de403e28e/>
+<img width="400" src=https://github.com/Sophie-ST-HILAIRE/Nanobubble-treatment-calculator/blob/main/Nanobubble_treatmet_App.png/>
    <br>
     <em> Fig. 1: Nanobuble treatment app input panel for treatment specifications, and corresponding outputs.</em>
 </p>
